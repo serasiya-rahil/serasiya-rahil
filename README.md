@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=serasiya-rahil&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=serasiya-rahil&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
